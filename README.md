@@ -1,7 +1,7 @@
 -DJango-
 
 📌 Django란?
-Django는 파이썬 기반으로 만들어진 프레임워크이다. Django를 통하여 웹 애플리케이션을 만들 수 있다.
+Django는 파이썬 기반으로 만들어진 프레임워크이다. 
 
  **주요 특징:**
     *   ORM (Object-Relational Mapping): 데이터베이스를 객체처럼 다룰 수 있도록 해줍니다.
